@@ -1,2 +1,2 @@
 # SportArico
-download full project to get idea get about this Application.
+download full project to get idea about this Application.
