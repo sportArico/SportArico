@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Constraints to layout margins" minToolsVersion="6.0"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <tableViewCell contentMode="scaleToFill" selectionStyle="default" indentationWidth="10" rowHeight="122" id="KGk-i7-Jjw" customClass="NotificationCell" customModule="SprotsArico" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="320" height="122"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <tableViewCellContentView key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" tableViewCell="KGk-i7-Jjw" id="H2p-sc-9uM">
+                <rect key="frame" x="0.0" y="0.0" width="320" height="121.5"/>
+                <autoresizingMask key="autoresizingMask"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="D6e-uv-rmS">
+                        <rect key="frame" x="16" y="11" width="288" height="100"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="photo" translatesAutoresizingMaskIntoConstraints="NO" id="zrX-br-iek">
+                                <rect key="frame" x="15" y="15" width="80" height="80"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="80" id="CXZ-L8-IDs"/>
+                                    <constraint firstAttribute="height" constant="80" id="fXp-jH-HMp"/>
+                                </constraints>
+                            </imageView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="David L. Brindle" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TEn-JG-JL9">
+                                <rect key="frame" x="117" y="15" width="107.5" height="18"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="15"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="has requested to play" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="7OT-nQ-qLT">
+                                <rect key="frame" x="117" y="41" width="130.5" height="16"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="23 hour ago" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aY8-0h-s8E">
+                                <rect key="frame" x="204.5" y="74" width="73.5" height="16"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="13"/>
+                                <nil key="textColor"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstAttribute="trailing" secondItem="aY8-0h-s8E" secondAttribute="trailing" constant="10" id="2ud-rf-dlP"/>
+                            <constraint firstItem="7OT-nQ-qLT" firstAttribute="leading" secondItem="TEn-JG-JL9" secondAttribute="leading" id="3UY-Nf-yOM"/>
+                            <constraint firstItem="zrX-br-iek" firstAttribute="leading" secondItem="D6e-uv-rmS" secondAttribute="leading" constant="15" id="TtJ-pC-FDo"/>
+                            <constraint firstItem="TEn-JG-JL9" firstAttribute="top" secondItem="D6e-uv-rmS" secondAttribute="top" constant="15" id="UNd-De-h1f"/>
+                            <constraint firstItem="TEn-JG-JL9" firstAttribute="leading" secondItem="zrX-br-iek" secondAttribute="trailing" constant="22" id="UYK-0D-YGB"/>
+                            <constraint firstItem="zrX-br-iek" firstAttribute="top" secondItem="D6e-uv-rmS" secondAttribute="top" constant="15" id="fz0-NI-xYp"/>
+                            <constraint firstAttribute="bottom" secondItem="aY8-0h-s8E" secondAttribute="bottom" constant="10" id="oVy-k8-OiJ"/>
+                            <constraint firstItem="7OT-nQ-qLT" firstAttribute="top" secondItem="TEn-JG-JL9" secondAttribute="bottom" constant="8" id="yXH-Yt-PqE"/>
+                        </constraints>
+                    </view>
+                </subviews>
+                <constraints>
+                    <constraint firstAttribute="bottomMargin" secondItem="D6e-uv-rmS" secondAttribute="bottom" id="3s2-Db-cbD"/>
+                    <constraint firstAttribute="trailingMargin" secondItem="D6e-uv-rmS" secondAttribute="trailing" id="FGo-Ps-4qZ"/>
+                    <constraint firstItem="D6e-uv-rmS" firstAttribute="leading" secondItem="H2p-sc-9uM" secondAttribute="leadingMargin" id="Lzh-2Z-ZeK"/>
+                    <constraint firstItem="D6e-uv-rmS" firstAttribute="top" secondItem="H2p-sc-9uM" secondAttribute="topMargin" id="q4t-oy-uXj"/>
+                </constraints>
+            </tableViewCellContentView>
+            <viewLayoutGuide key="safeArea" id="njF-e1-oar"/>
+            <connections>
+                <outlet property="imgUserImage" destination="zrX-br-iek" id="uvc-se-Ggb"/>
+                <outlet property="lblDes" destination="7OT-nQ-qLT" id="Sha-n4-kwJ"/>
+                <outlet property="lblName" destination="TEn-JG-JL9" id="hfc-64-XhI"/>
+                <outlet property="lblTime" destination="aY8-0h-s8E" id="dJ5-ZE-SI1"/>
+            </connections>
+            <point key="canvasLocation" x="26" y="50"/>
+        </tableViewCell>
+    </objects>
+    <resources>
+        <image name="photo" width="64" height="64"/>
+    </resources>
+</document>

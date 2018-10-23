@@ -1,0 +1,174 @@
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "0lB-R4-Kye"; */
+"0lB-R4-Kye.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "0tw-75-nSc"; */
+"0tw-75-nSc.text" = "Male";
+
+/* Class = "UILabel"; text = "Preference"; ObjectID = "1rE-wB-Rae"; */
+"1rE-wB-Rae.text" = "Preference";
+
+/* Class = "UILabel"; text = "Account Type"; ObjectID = "2GW-Ik-53d"; */
+"2GW-Ik-53d.text" = "Account Type";
+
+/* Class = "UILabel"; text = "Cources"; ObjectID = "4WN-Bk-I73"; */
+"4WN-Bk-I73.text" = "Cources";
+
+/* Class = "UIButton"; normalTitle = "Business"; ObjectID = "6sV-4U-ORh"; */
+"6sV-4U-ORh.normalTitle" = "Business";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "6ty-5k-MbS"; */
+"6ty-5k-MbS.text" = "Label";
+
+/* Class = "UITextField"; text = "Tennis"; ObjectID = "8em-rP-vF7"; */
+"8em-rP-vF7.text" = "Tennis";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "92n-Id-r99"; */
+"92n-Id-r99.text" = "Location";
+
+/* Class = "UILabel"; text = "Age"; ObjectID = "9IY-Oh-t8z"; */
+"9IY-Oh-t8z.text" = "Age";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "9ny-KS-gNH"; */
+"9ny-KS-gNH.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "AF0-KD-7Ro"; */
+"AF0-KD-7Ro.text" = "Male";
+
+/* Class = "UIButton"; normalTitle = "Book Now"; ObjectID = "Bu0-3m-WSS"; */
+"Bu0-3m-WSS.normalTitle" = "Book Now";
+
+/* Class = "UIButton"; normalTitle = "Personal"; ObjectID = "Dmm-ZY-lvA"; */
+"Dmm-ZY-lvA.normalTitle" = "Personal";
+
+/* Class = "UITextField"; placeholder = "Write a message..."; ObjectID = "Dtj-1X-uSe"; */
+"Dtj-1X-uSe.placeholder" = "Write a message...";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "Duh-xz-fa0"; */
+"Duh-xz-fa0.text" = "Male";
+
+/* Class = "UILabel"; text = "Bookmark"; ObjectID = "Euf-Ay-52f"; */
+"Euf-Ay-52f.text" = "Bookmark";
+
+/* Class = "UILabel"; text = "Evening"; ObjectID = "F4X-Pa-v4A"; */
+"F4X-Pa-v4A.text" = "Evening";
+
+/* Class = "UILabel"; text = "Running Session"; ObjectID = "F9q-tA-hzV"; */
+"F9q-tA-hzV.text" = "Running Session";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "FmX-5q-5zk"; */
+"FmX-5q-5zk.text" = "Location";
+
+/* Class = "UILabel"; text = "Navigate"; ObjectID = "JyB-tZ-cHX"; */
+"JyB-tZ-cHX.text" = "Navigate";
+
+/* Class = "UILabel"; text = "Trainer"; ObjectID = "KkY-Pl-n3P"; */
+"KkY-Pl-n3P.text" = "Trainer";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "MG0-BR-hqy"; */
+"MG0-BR-hqy.text" = "Male";
+
+/* Class = "UILabel"; text = "MAPAC SPORT"; ObjectID = "MlZ-jx-uOO"; */
+"MlZ-jx-uOO.text" = "MAPAC SPORT";
+
+/* Class = "UILabel"; text = "Mon, 4th Jun"; ObjectID = "OQ5-eW-e3I"; */
+"OQ5-eW-e3I.text" = "Mon, 4th Jun";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "Ofb-D8-3Cj"; */
+"Ofb-D8-3Cj.text" = "Male";
+
+/* Class = "UILabel"; text = "Male"; ObjectID = "S7Y-qz-rfk"; */
+"S7Y-qz-rfk.text" = "Male";
+
+/* Class = "UILabel"; text = "has requested to play"; ObjectID = "SZs-xC-IL2"; */
+"SZs-xC-IL2.text" = "has requested to play";
+
+/* Class = "UITextField"; text = "Um Suqeim, Dubai"; ObjectID = "TZL-Pj-Dwr"; */
+"TZL-Pj-Dwr.text" = "Um Suqeim, Dubai";
+
+/* Class = "UILabel"; text = "Gasperich Sport Center"; ObjectID = "VAf-Lz-aeq"; */
+"VAf-Lz-aeq.text" = "Gasperich Sport Center";
+
+/* Class = "UILabel"; text = "AED 50"; ObjectID = "VHb-iu-ZVk"; */
+"VHb-iu-ZVk.text" = "AED 50";
+
+/* Class = "UILabel"; text = "Wed"; ObjectID = "VHy-DW-OR7"; */
+"VHy-DW-OR7.text" = "Wed";
+
+/* Class = "UILabel"; text = "10:30 am"; ObjectID = "Z1n-Ud-n3D"; */
+"Z1n-Ud-n3D.text" = "10:30 am";
+
+/* Class = "UILabel"; text = "Include Sport tools"; ObjectID = "ZPC-zn-fyJ"; */
+"ZPC-zn-fyJ.text" = "Include Sport tools";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "aJL-t7-FmL"; */
+"aJL-t7-FmL.text" = "Name";
+
+/* Class = "UILabel"; text = "Contact Info"; ObjectID = "avQ-Zz-OQd"; */
+"avQ-Zz-OQd.text" = "Contact Info";
+
+/* Class = "UIButton"; normalTitle = "Modify Booking"; ObjectID = "doV-gd-DkM"; */
+"doV-gd-DkM.normalTitle" = "Modify Booking";
+
+/* Class = "UILabel"; text = "Cources"; ObjectID = "f17-s1-qXQ"; */
+"f17-s1-qXQ.text" = "Cources";
+
+/* Class = "UILabel"; text = "Select Pakage"; ObjectID = "fi5-7I-AxR"; */
+"fi5-7I-AxR.text" = "Select Pakage";
+
+/* Class = "UILabel"; text = "Contact"; ObjectID = "fnt-lL-sGl"; */
+"fnt-lL-sGl.text" = "Contact";
+
+/* Class = "UILabel"; text = "Mobile #"; ObjectID = "h8i-T7-lDf"; */
+"h8i-T7-lDf.text" = "Mobile #";
+
+/* Class = "UILabel"; text = "Nationality"; ObjectID = "huE-rD-FNs"; */
+"huE-rD-FNs.text" = "Nationality";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "j7e-UT-YTQ"; */
+"j7e-UT-YTQ.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "Include Place"; ObjectID = "jaq-rf-ZeE"; */
+"jaq-rf-ZeE.text" = "Include Place";
+
+/* Class = "UILabel"; text = "Gender"; ObjectID = "k5B-0C-51S"; */
+"k5B-0C-51S.text" = "Gender";
+
+/* Class = "UILabel"; text = "AED 218.00"; ObjectID = "k9B-Ze-7Y1"; */
+"k9B-Ze-7Y1.text" = "AED 218.00";
+
+/* Class = "UILabel"; text = "AED 50"; ObjectID = "lgs-fR-3lO"; */
+"lgs-fR-3lO.text" = "AED 50";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "mHM-2Y-evq"; */
+"mHM-2Y-evq.text" = "Name";
+
+/* Class = "UILabel"; text = "AI Quoz - Dubai (3 km)"; ObjectID = "mjU-8X-uHV"; */
+"mjU-8X-uHV.text" = "AI Quoz - Dubai (3 km)";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "tgs-V4-u6n"; */
+"tgs-V4-u6n.text" = "Sport";
+
+/* Class = "UILabel"; text = "Date & Time"; ObjectID = "uGd-lH-4Qh"; */
+"uGd-lH-4Qh.text" = "Date & Time";
+
+/* Class = "UILabel"; text = "Terms & Conditions"; ObjectID = "v34-p1-r8D"; */
+"v34-p1-r8D.text" = "Terms & Conditions";
+
+/* Class = "UILabel"; text = "23 hour ago"; ObjectID = "vWt-rz-cCX"; */
+"vWt-rz-cCX.text" = "23 hour ago";
+
+/* Class = "UILabel"; text = "David L. Brindle"; ObjectID = "w7x-If-Zrq"; */
+"w7x-If-Zrq.text" = "David L. Brindle";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "wL4-te-QXg"; */
+"wL4-te-QXg.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UILabel"; text = "AED 50"; ObjectID = "xNf-aY-uME"; */
+"xNf-aY-uME.text" = "AED 50";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "yiA-qy-xze"; */
+"yiA-qy-xze.text" = "Name";
+
+/* Class = "UILabel"; text = "28"; ObjectID = "zAq-Sw-VXA"; */
+"zAq-Sw-VXA.text" = "28";

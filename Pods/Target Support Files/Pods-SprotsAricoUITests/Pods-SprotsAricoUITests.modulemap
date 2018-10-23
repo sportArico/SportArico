@@ -1,0 +1,6 @@
+framework module Pods_SprotsAricoUITests {
+  umbrella header "Pods-SprotsAricoUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}

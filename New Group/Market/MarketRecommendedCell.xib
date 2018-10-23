@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14109" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14088"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" id="gTV-IL-0wX" customClass="MarketRecommendedCell" customModule="SprotsArico" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="379" height="229"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="379" height="229"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <collectionView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" dataMode="none" translatesAutoresizingMaskIntoConstraints="NO" id="11v-HQ-7Ah">
+                        <rect key="frame" x="5" y="56" width="369" height="163"/>
+                        <color key="backgroundColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                        <collectionViewFlowLayout key="collectionViewLayout" scrollDirection="horizontal" minimumLineSpacing="10" minimumInteritemSpacing="10" id="p1w-II-Jck">
+                            <size key="itemSize" width="50" height="50"/>
+                            <size key="headerReferenceSize" width="0.0" height="0.0"/>
+                            <size key="footerReferenceSize" width="0.0" height="0.0"/>
+                            <inset key="sectionInset" minX="0.0" minY="0.0" maxX="0.0" maxY="0.0"/>
+                        </collectionViewFlowLayout>
+                    </collectionView>
+                    <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Recommended based on recent browsing" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="fus-ZO-PaF">
+                        <rect key="frame" x="50" y="10" width="279" height="36"/>
+                        <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="15"/>
+                        <nil key="highlightedColor"/>
+                    </label>
+                </subviews>
+            </view>
+            <constraints>
+                <constraint firstItem="fus-ZO-PaF" firstAttribute="centerX" secondItem="gTV-IL-0wX" secondAttribute="centerX" id="1My-y4-dtv"/>
+                <constraint firstAttribute="trailing" secondItem="fus-ZO-PaF" secondAttribute="trailing" constant="50" id="Eb6-PJ-Bca"/>
+                <constraint firstItem="11v-HQ-7Ah" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="5" id="O5O-bh-kCo"/>
+                <constraint firstItem="11v-HQ-7Ah" firstAttribute="top" secondItem="fus-ZO-PaF" secondAttribute="bottom" constant="10" id="PbZ-2V-lSy"/>
+                <constraint firstItem="fus-ZO-PaF" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" constant="50" id="QW1-bI-qAl"/>
+                <constraint firstItem="11v-HQ-7Ah" firstAttribute="top" secondItem="fus-ZO-PaF" secondAttribute="bottom" constant="10" id="Z6e-uo-rHs"/>
+                <constraint firstItem="fus-ZO-PaF" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" constant="10" id="cRb-S1-sqF"/>
+                <constraint firstAttribute="bottom" secondItem="11v-HQ-7Ah" secondAttribute="bottom" constant="10" id="plB-Ue-lPr"/>
+                <constraint firstAttribute="trailing" secondItem="11v-HQ-7Ah" secondAttribute="trailing" constant="5" id="uIb-Cf-Jcg"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="379" height="229"/>
+            <connections>
+                <outlet property="RecommendedCollectionview" destination="11v-HQ-7Ah" id="JyA-6I-MTy"/>
+            </connections>
+            <point key="canvasLocation" x="178.5" y="306.5"/>
+        </collectionViewCell>
+    </objects>
+</document>

@@ -1,0 +1,96 @@
+
+/* Class = "UILabel"; text = "Preference"; ObjectID = "1rE-wB-Rae"; */
+"1rE-wB-Rae.text" = "Preference";
+
+/* Class = "UILabel"; text = "Market"; ObjectID = "4WN-Bk-I73"; */
+"4WN-Bk-I73.text" = "Market";
+
+/* Class = "UILabel"; text = "Products From Buyer"; ObjectID = "6qL-wq-725"; */
+"6qL-wq-725.text" = "Products From Buyer";
+
+/* Class = "UIButton"; normalTitle = "Save Changes"; ObjectID = "6sV-4U-ORh"; */
+"6sV-4U-ORh.normalTitle" = "Save Changes";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "89w-bX-4rh"; */
+"89w-bX-4rh.normalTitle" = "Send";
+
+/* Class = "UITextField"; text = "Accesares"; ObjectID = "8em-rP-vF7"; */
+"8em-rP-vF7.text" = "Accesares";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "92n-Id-r99"; */
+"92n-Id-r99.text" = "Location";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "Afl-SG-AMF"; */
+"Afl-SG-AMF.text" = "Notifications";
+
+/* Class = "UIButton"; normalTitle = "Call Now"; ObjectID = "BLe-HV-WEd"; */
+"BLe-HV-WEd.normalTitle" = "Call Now";
+
+/* Class = "UILabel"; text = "David L. Brindle"; ObjectID = "C2i-DE-1dd"; */
+"C2i-DE-1dd.text" = "David L. Brindle";
+
+/* Class = "UILabel"; text = "Puma"; ObjectID = "KkY-Pl-n3P"; */
+"KkY-Pl-n3P.text" = "Puma";
+
+/* Class = "UILabel"; text = "Distance"; ObjectID = "Osh-zX-Tl9"; */
+"Osh-zX-Tl9.text" = "Distance";
+
+/* Class = "UILabel"; text = "AED 1,199.99"; ObjectID = "PfI-wI-aLL"; */
+"PfI-wI-aLL.text" = "AED 1,199.99";
+
+/* Class = "UITextField"; text = "Bar Dubai, Dubai"; ObjectID = "TZL-Pj-Dwr"; */
+"TZL-Pj-Dwr.text" = "Bar Dubai, Dubai";
+
+/* Class = "UILabel"; text = "Evening"; ObjectID = "Tdo-cY-n7C"; */
+"Tdo-cY-n7C.text" = "Evening";
+
+/* Class = "UILabel"; text = "Price Range"; ObjectID = "Xut-rF-Ebw"; */
+"Xut-rF-Ebw.text" = "Price Range";
+
+/* Class = "UILabel"; text = "has requested to play"; ObjectID = "ZBq-8V-kKb"; */
+"ZBq-8V-kKb.text" = "has requested to play";
+
+/* Class = "UILabel"; text = "Related"; ObjectID = "ayd-M3-td9"; */
+"ayd-M3-td9.text" = "Related";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "bDP-NI-qsz"; */
+"bDP-NI-qsz.text" = "Label";
+
+/* Class = "UILabel"; text = "Market"; ObjectID = "bGl-BF-dYJ"; */
+"bGl-BF-dYJ.text" = "Market";
+
+/* Class = "UILabel"; text = "Mon, 4th Jun"; ObjectID = "dfe-n1-QFN"; */
+"dfe-n1-QFN.text" = "Mon, 4th Jun";
+
+/* Class = "UILabel"; text = "Gasperich Sport Center"; ObjectID = "e5u-ZM-Dnd"; */
+"e5u-ZM-Dnd.text" = "Gasperich Sport Center";
+
+/* Class = "UIButton"; normalTitle = "Modify Booking"; ObjectID = "el1-fo-GR7"; */
+"el1-fo-GR7.normalTitle" = "Modify Booking";
+
+/* Class = "UILabel"; text = "BoseSoundLink Revolve+ Portable Bluetooth Speaker, with Bose Charging"; ObjectID = "fwl-9X-IoU"; */
+"fwl-9X-IoU.text" = "BoseSoundLink Revolve+ Portable Bluetooth Speaker, with Bose Charging";
+
+/* Class = "UITextField"; placeholder = "Write a message..."; ObjectID = "iaA-5q-pz6"; */
+"iaA-5q-pz6.placeholder" = "Write a message...";
+
+/* Class = "UIButton"; normalTitle = "More Products      >"; ObjectID = "iph-BM-HsL"; */
+"iph-BM-HsL.normalTitle" = "More Products      >";
+
+/* Class = "UILabel"; text = "Puma Shop"; ObjectID = "kOU-ha-rud"; */
+"kOU-ha-rud.text" = "Puma Shop";
+
+/* Class = "UILabel"; text = "Market"; ObjectID = "mPP-kj-elh"; */
+"mPP-kj-elh.text" = "Market";
+
+/* Class = "UILabel"; text = "SKU"; ObjectID = "p2m-Pu-vZv"; */
+"p2m-Pu-vZv.text" = "SKU";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "; ObjectID = "rdb-aT-Obb"; */
+"rdb-aT-Obb.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. ";
+
+/* Class = "UILabel"; text = "Category"; ObjectID = "tgs-V4-u6n"; */
+"tgs-V4-u6n.text" = "Category";
+
+/* Class = "UILabel"; text = "23 hour ago"; ObjectID = "y31-QZ-H46"; */
+"y31-QZ-H46.text" = "23 hour ago";

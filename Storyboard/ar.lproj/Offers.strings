@@ -1,0 +1,60 @@
+
+/* Class = "UILabel"; text = "Gasperich Sport Center"; ObjectID = "14u-kh-FlU"; */
+"14u-kh-FlU.text" = "Gasperich Sport Center";
+
+/* Class = "UILabel"; text = "Preference"; ObjectID = "1rE-wB-Rae"; */
+"1rE-wB-Rae.text" = "Preference";
+
+/* Class = "UILabel"; text = "Offers"; ObjectID = "4WN-Bk-I73"; */
+"4WN-Bk-I73.text" = "Offers";
+
+/* Class = "UILabel"; text = "23 hour ago"; ObjectID = "6Rn-9c-Bqa"; */
+"6Rn-9c-Bqa.text" = "23 hour ago";
+
+/* Class = "UIButton"; normalTitle = "Business"; ObjectID = "6sV-4U-ORh"; */
+"6sV-4U-ORh.normalTitle" = "Business";
+
+/* Class = "UITextField"; text = "Tennis"; ObjectID = "8em-rP-vF7"; */
+"8em-rP-vF7.text" = "Tennis";
+
+/* Class = "UILabel"; text = "Location"; ObjectID = "92n-Id-r99"; */
+"92n-Id-r99.text" = "Location";
+
+/* Class = "UILabel"; text = "David L. Brindle"; ObjectID = "ANZ-Zz-oJR"; */
+"ANZ-Zz-oJR.text" = "David L. Brindle";
+
+/* Class = "UIButton"; normalTitle = "Personal"; ObjectID = "Dmm-ZY-lvA"; */
+"Dmm-ZY-lvA.normalTitle" = "Personal";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "F5I-dA-euC"; */
+"F5I-dA-euC.text" = "Notifications";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "FNj-sA-KZk"; */
+"FNj-sA-KZk.text" = "Label";
+
+/* Class = "UITextField"; text = "Um Suqeim, Dubai"; ObjectID = "TZL-Pj-Dwr"; */
+"TZL-Pj-Dwr.text" = "Um Suqeim, Dubai";
+
+/* Class = "UILabel"; text = "has requested to play"; ObjectID = "dC9-gG-xWW"; */
+"dC9-gG-xWW.text" = "has requested to play";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "dqo-HL-7dX"; */
+"dqo-HL-7dX.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Modify Booking"; ObjectID = "goA-aK-muW"; */
+"goA-aK-muW.normalTitle" = "Modify Booking";
+
+/* Class = "UILabel"; text = "Offers"; ObjectID = "old-gz-ME5"; */
+"old-gz-ME5.text" = "Offers";
+
+/* Class = "UILabel"; text = "Sport"; ObjectID = "tgs-V4-u6n"; */
+"tgs-V4-u6n.text" = "Sport";
+
+/* Class = "UILabel"; text = "Mon, 4th Jun"; ObjectID = "tnu-Ea-NxZ"; */
+"tnu-Ea-NxZ.text" = "Mon, 4th Jun";
+
+/* Class = "UITextField"; placeholder = "Write a message..."; ObjectID = "wgh-av-mt7"; */
+"wgh-av-mt7.placeholder" = "Write a message...";
+
+/* Class = "UILabel"; text = "Evening"; ObjectID = "xkd-eT-lly"; */
+"xkd-eT-lly.text" = "Evening";

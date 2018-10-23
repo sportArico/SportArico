@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="13771" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="13772"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <collectionViewCell opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center" reuseIdentifier="SportCategoryCell" id="gTV-IL-0wX" customClass="SportCategoryCell" customModule="SprotsArico" customModuleProvider="target">
+            <rect key="frame" x="0.0" y="0.0" width="151" height="97"/>
+            <autoresizingMask key="autoresizingMask"/>
+            <view key="contentView" opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="center">
+                <rect key="frame" x="0.0" y="0.0" width="151" height="97"/>
+                <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+                <subviews>
+                    <view contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="r1R-He-hAb">
+                        <rect key="frame" x="0.0" y="0.0" width="151" height="97"/>
+                        <subviews>
+                            <imageView userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="CMi-Ug-Lds">
+                                <rect key="frame" x="60.5" y="0.0" width="30" height="30"/>
+                                <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="30" id="AhX-UN-Pu5"/>
+                                    <constraint firstAttribute="height" constant="30" id="xGs-EE-Jmt"/>
+                                </constraints>
+                            </imageView>
+                            <label hidden="YES" opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="name" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="rBi-U7-800">
+                                <rect key="frame" x="0.0" y="30" width="151" height="20"/>
+                                <constraints>
+                                    <constraint firstAttribute="height" constant="20" id="kVT-3N-PVV"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="12"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="rBi-U7-800" firstAttribute="top" secondItem="CMi-Ug-Lds" secondAttribute="bottom" id="8Bp-Lo-1lf"/>
+                            <constraint firstItem="CMi-Ug-Lds" firstAttribute="centerX" secondItem="r1R-He-hAb" secondAttribute="centerX" id="Mr2-7u-MJS"/>
+                            <constraint firstItem="CMi-Ug-Lds" firstAttribute="top" secondItem="r1R-He-hAb" secondAttribute="top" id="PMc-xh-LXr"/>
+                            <constraint firstItem="rBi-U7-800" firstAttribute="leading" secondItem="r1R-He-hAb" secondAttribute="leading" id="bDD-wY-UE5"/>
+                            <constraint firstAttribute="trailing" secondItem="rBi-U7-800" secondAttribute="trailing" id="r1z-rQ-Pm3"/>
+                            <constraint firstItem="rBi-U7-800" firstAttribute="centerX" secondItem="r1R-He-hAb" secondAttribute="centerX" id="s38-ul-AaK"/>
+                        </constraints>
+                    </view>
+                </subviews>
+            </view>
+            <color key="backgroundColor" white="0.0" alpha="0.0" colorSpace="calibratedWhite"/>
+            <constraints>
+                <constraint firstItem="r1R-He-hAb" firstAttribute="top" secondItem="gTV-IL-0wX" secondAttribute="top" id="23s-bn-UkY"/>
+                <constraint firstItem="r1R-He-hAb" firstAttribute="leading" secondItem="gTV-IL-0wX" secondAttribute="leading" id="FWF-18-Rz2"/>
+                <constraint firstAttribute="trailing" secondItem="r1R-He-hAb" secondAttribute="trailing" id="cxb-KE-CqJ"/>
+                <constraint firstAttribute="bottom" secondItem="r1R-He-hAb" secondAttribute="bottom" id="iVD-1X-tXh"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="ZTg-uK-7eu"/>
+            <size key="customSize" width="151" height="97"/>
+            <connections>
+                <outlet property="imgSportImage" destination="CMi-Ug-Lds" id="JxT-1X-LyF"/>
+                <outlet property="lblSportName" destination="rBi-U7-800" id="2OZ-Ea-4GT"/>
+            </connections>
+            <point key="canvasLocation" x="-16.5" y="75.5"/>
+        </collectionViewCell>
+    </objects>
+</document>

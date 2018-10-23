@@ -1,0 +1,216 @@
+
+/* Class = "UITextField"; placeholder = "Valid To"; ObjectID = "03e-JL-7kn"; */
+"03e-JL-7kn.placeholder" = "Valid To";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "0lI-vK-dDA"; */
+"0lI-vK-dDA.placeholder" = "Description";
+
+/* Class = "UITextField"; placeholder = "Add Product Price"; ObjectID = "1Fo-UG-vKs"; */
+"1Fo-UG-vKs.placeholder" = "Add Product Price";
+
+/* Class = "UILabel"; text = "Dashboard"; ObjectID = "3SW-Lc-c5Z"; */
+"3SW-Lc-c5Z.text" = "Dashboard";
+
+/* Class = "UITextField"; placeholder = "Add SKU"; ObjectID = "4mt-3g-9gi"; */
+"4mt-3g-9gi.placeholder" = "Add SKU";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "5Ab-gP-tQQ"; */
+"5Ab-gP-tQQ.text" = "Yes";
+
+/* Class = "UILabel"; text = "Notifications"; ObjectID = "5ZA-9A-9kU"; */
+"5ZA-9A-9kU.text" = "Notifications";
+
+/* Class = "UITextField"; placeholder = "Nationality"; ObjectID = "7i7-AR-yFD"; */
+"7i7-AR-yFD.placeholder" = "Nationality";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "8UL-cz-XfS"; */
+"8UL-cz-XfS.text" = "No";
+
+/* Class = "UILabel"; text = "Add Cover Image"; ObjectID = "A7h-Uz-rkb"; */
+"A7h-Uz-rkb.text" = "Add Cover Image";
+
+/* Class = "UILabel"; text = "Upgrade"; ObjectID = "B1z-6j-1R7"; */
+"B1z-6j-1R7.text" = "Upgrade";
+
+/* Class = "UILabel"; text = "PITCH INFO"; ObjectID = "CZ1-wI-Y9f"; */
+"CZ1-wI-Y9f.text" = "PITCH INFO";
+
+/* Class = "UILabel"; text = "AED 2000"; ObjectID = "CuT-Eh-FJU"; */
+"CuT-Eh-FJU.text" = "AED 2000";
+
+/* Class = "UILabel"; text = "Booking 12"; ObjectID = "Dks-fx-Swi"; */
+"Dks-fx-Swi.text" = "Booking 12";
+
+/* Class = "UILabel"; text = "Facility Availble"; ObjectID = "EfL-DX-oif"; */
+"EfL-DX-oif.text" = "Facility Availble";
+
+/* Class = "UILabel"; text = "Max Upload 3 Images"; ObjectID = "EwE-aD-R52"; */
+"EwE-aD-R52.text" = "Max Upload 3 Images";
+
+/* Class = "UILabel"; text = "Add More Sport"; ObjectID = "FbJ-2D-Ex7"; */
+"FbJ-2D-Ex7.text" = "Add More Sport";
+
+/* Class = "UILabel"; text = "Add Offer Image"; ObjectID = "FsF-fN-hcW"; */
+"FsF-fN-hcW.text" = "Add Offer Image";
+
+/* Class = "UITextField"; placeholder = "Pitch Name"; ObjectID = "GEx-RN-K67"; */
+"GEx-RN-K67.placeholder" = "Pitch Name";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "HVe-Gu-qBL"; */
+"HVe-Gu-qBL.placeholder" = "Description";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "IAj-A7-ksL"; */
+"IAj-A7-ksL.text" = "No";
+
+/* Class = "UILabel"; text = "Is Active"; ObjectID = "KPh-F5-TVx"; */
+"KPh-F5-TVx.text" = "Is Active";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "O6s-Kg-PHi"; */
+"O6s-Kg-PHi.text" = "Yes";
+
+/* Class = "UITextField"; placeholder = "Add Category Slug"; ObjectID = "OD4-M0-1N8"; */
+"OD4-M0-1N8.placeholder" = "Add Category Slug";
+
+/* Class = "UITextField"; placeholder = "Add Description"; ObjectID = "P2Z-Rl-h1h"; */
+"P2Z-Rl-h1h.placeholder" = "Add Description";
+
+/* Class = "UILabel"; text = "Reviews"; ObjectID = "PTa-sC-PrC"; */
+"PTa-sC-PrC.text" = "Reviews";
+
+/* Class = "UILabel"; text = "New Market Product"; ObjectID = "R8e-mo-ncQ"; */
+"R8e-mo-ncQ.text" = "New Market Product";
+
+/* Class = "UITextField"; placeholder = "Add Category Name"; ObjectID = "VCK-MQ-OPx"; */
+"VCK-MQ-OPx.placeholder" = "Add Category Name";
+
+/* Class = "UITextField"; placeholder = "Add Price"; ObjectID = "Xyl-ig-kb7"; */
+"Xyl-ig-kb7.placeholder" = "Add Price";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "YKn-14-EYC"; */
+"YKn-14-EYC.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "Is Offer"; ObjectID = "YQN-hl-zgg"; */
+"YQN-hl-zgg.text" = "Is Offer";
+
+/* Class = "UIButton"; normalTitle = "LogOut"; ObjectID = "ZdT-on-vQ8"; */
+"ZdT-on-vQ8.normalTitle" = "LogOut";
+
+/* Class = "UITextField"; placeholder = "Discount"; ObjectID = "bAI-RJ-qUO"; */
+"bAI-RJ-qUO.placeholder" = "Discount";
+
+/* Class = "UITextField"; placeholder = "Age"; ObjectID = "bFg-Fe-c8D"; */
+"bFg-Fe-c8D.placeholder" = "Age";
+
+/* Class = "UITextView"; text = "Tearm and Condition"; ObjectID = "cAc-E2-hdr"; */
+"cAc-E2-hdr.text" = "Tearm and Condition";
+
+/* Class = "UILabel"; text = "Sport Availble"; ObjectID = "cGJ-4J-MLm"; */
+"cGJ-4J-MLm.text" = "Sport Availble";
+
+/* Class = "UILabel"; text = "My Pitches"; ObjectID = "cYh-EC-gzb"; */
+"cYh-EC-gzb.text" = "My Pitches";
+
+/* Class = "UILabel"; text = "Is Active"; ObjectID = "cfE-zK-ybS"; */
+"cfE-zK-ybS.text" = "Is Active";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "csH-yk-5lR"; */
+"csH-yk-5lR.normalTitle" = "SAVE";
+
+/* Class = "UITextField"; placeholder = "Add Course Title"; ObjectID = "dAe-hx-c4C"; */
+"dAe-hx-c4C.placeholder" = "Add Course Title";
+
+/* Class = "UITextField"; placeholder = "Gender"; ObjectID = "dEr-If-LuZ"; */
+"dEr-If-LuZ.placeholder" = "Gender";
+
+/* Class = "UILabel"; text = "Add New Pitch"; ObjectID = "e7s-IC-Pnr"; */
+"e7s-IC-Pnr.text" = "Add New Pitch";
+
+/* Class = "UILabel"; text = "Offer Images Max Upload 3 Images"; ObjectID = "eZ8-ae-lAL"; */
+"eZ8-ae-lAL.text" = "Offer Images Max Upload 3 Images";
+
+/* Class = "UILabel"; text = "Availble Balance"; ObjectID = "fIF-Pu-U5v"; */
+"fIF-Pu-U5v.text" = "Availble Balance";
+
+/* Class = "UITextField"; placeholder = "Description"; ObjectID = "fY2-dR-2Qz"; */
+"fY2-dR-2Qz.placeholder" = "Description";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "gNS-bE-Xyl"; */
+"gNS-bE-Xyl.text" = "Yes";
+
+/* Class = "UILabel"; text = "Add More Sport"; ObjectID = "hDf-08-qJd"; */
+"hDf-08-qJd.text" = "Add More Sport";
+
+/* Class = "UIButton"; normalTitle = "Add more Pitches"; ObjectID = "hSD-Ix-Gua"; */
+"hSD-Ix-Gua.normalTitle" = "Add more Pitches";
+
+/* Class = "UIButton"; normalTitle = "Add more Pitches"; ObjectID = "hsv-T7-ZXT"; */
+"hsv-T7-ZXT.normalTitle" = "Add more Pitches";
+
+/* Class = "UILabel"; text = "My Pitches"; ObjectID = "iEy-DB-GkK"; */
+"iEy-DB-GkK.text" = "My Pitches";
+
+/* Class = "UILabel"; text = "Max Upload 3 Images"; ObjectID = "jXa-Yh-q9F"; */
+"jXa-Yh-q9F.text" = "Max Upload 3 Images";
+
+/* Class = "UITextField"; placeholder = "Valid From"; ObjectID = "kHU-AX-rdu"; */
+"kHU-AX-rdu.placeholder" = "Valid From";
+
+/* Class = "UITextField"; placeholder = "Add Sport Tools Price"; ObjectID = "kOE-SX-DW8"; */
+"kOE-SX-DW8.placeholder" = "Add Sport Tools Price";
+
+/* Class = "UILabel"; text = "New Market Category"; ObjectID = "kZA-HN-Jfr"; */
+"kZA-HN-Jfr.text" = "New Market Category";
+
+/* Class = "UILabel"; text = "Yes"; ObjectID = "lPy-hC-xkn"; */
+"lPy-hC-xkn.text" = "Yes";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "oJm-SI-ifH"; */
+"oJm-SI-ifH.placeholder" = "Location";
+
+/* Class = "UILabel"; text = "Booking Online"; ObjectID = "ofs-o0-B46"; */
+"ofs-o0-B46.text" = "Booking Online";
+
+/* Class = "UILabel"; text = "New Course"; ObjectID = "pDN-wY-nFL"; */
+"pDN-wY-nFL.text" = "New Course";
+
+/* Class = "UITextField"; placeholder = "Location"; ObjectID = "pDj-L8-ew8"; */
+"pDj-L8-ew8.placeholder" = "Location";
+
+/* Class = "UITextField"; placeholder = "Mobile Number"; ObjectID = "qCE-xp-ZlH"; */
+"qCE-xp-ZlH.placeholder" = "Mobile Number";
+
+/* Class = "UITextField"; placeholder = "Add Include Place Price"; ObjectID = "qQH-B0-57u"; */
+"qQH-B0-57u.placeholder" = "Add Include Place Price";
+
+/* Class = "UILabel"; text = "Sport Availble"; ObjectID = "qfa-a2-rK4"; */
+"qfa-a2-rK4.text" = "Sport Availble";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "rzS-95-Rww"; */
+"rzS-95-Rww.text" = "No";
+
+/* Class = "UILabel"; text = "My Pitch 2"; ObjectID = "t4a-SF-Zga"; */
+"t4a-SF-Zga.text" = "My Pitch 2";
+
+/* Class = "UILabel"; text = "Is Academy"; ObjectID = "uVI-J7-7Vk"; */
+"uVI-J7-7Vk.text" = "Is Academy";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "ugd-jS-dI2"; */
+"ugd-jS-dI2.normalTitle" = "SAVE";
+
+/* Class = "UITextField"; placeholder = "Add Name"; ObjectID = "vpN-C8-a1o"; */
+"vpN-C8-a1o.placeholder" = "Add Name";
+
+/* Class = "UILabel"; text = "Facility Availble"; ObjectID = "vx8-s7-CBa"; */
+"vx8-s7-CBa.text" = "Facility Availble";
+
+/* Class = "UIButton"; normalTitle = "SAVE"; ObjectID = "w4Z-vg-pPb"; */
+"w4Z-vg-pPb.normalTitle" = "SAVE";
+
+/* Class = "UILabel"; text = "Add Icon"; ObjectID = "wa8-aW-Z1O"; */
+"wa8-aW-Z1O.text" = "Add Icon";
+
+/* Class = "UILabel"; text = "No"; ObjectID = "yvm-qx-eVr"; */
+"yvm-qx-eVr.text" = "No";
+
+/* Class = "UIButton"; normalTitle = "Fitch My Location"; ObjectID = "z8e-aV-ntp"; */
+"z8e-aV-ntp.normalTitle" = "Fitch My Location";
